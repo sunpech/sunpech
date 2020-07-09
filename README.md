@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋, 
+
+I'm Steven-- coder, photographer, and investor.
+
+* Twitter: [@sunpech](https://twitter.com/sunpech)
+* Blog: [sunpech.com](https://sunpech.com]
+* Photography website: [sunpechphotography.com](https://sunpechphotography.com)
+
 
 <!--
 **sunpech/sunpech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
