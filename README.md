@@ -3,7 +3,7 @@
 I'm Steven-- coder, photographer, and investor.
 
 * Twitter: [@sunpech](https://twitter.com/sunpech)
-* Blog: [sunpech.com](https://sunpech.com]
+* Blog: [sunpech.com](https://sunpech.com)
 * Photography website: [sunpechphotography.com](https://sunpechphotography.com)
 
 
