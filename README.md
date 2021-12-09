@@ -1,6 +1,6 @@
 # Hi there 👋, 
 
-I'm Steven-- coder, photographer, and investor.
+I'm Steven.
 
 * Twitter: [@sunpech](https://twitter.com/sunpech)
 * Blog: [sunpech.com](https://sunpech.com)
