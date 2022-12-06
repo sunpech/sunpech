@@ -6,7 +6,7 @@ I'm Steven.
 * Blog: [sunpech.com](https://sunpech.com)
 * Photography website: [sunpechphotography.com](https://sunpechphotography.com)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sunpech)](https://github.com/sunpech/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sunpech)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
 **sunpech/sunpech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
