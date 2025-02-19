@@ -2,7 +2,6 @@
 
 I'm Steven.
 
-* Twitter: [@sunpech](https://twitter.com/sunpech)
 * Blog: [sunpech.com](https://sunpech.com)
 * Photography website: [sunpechphotography.com](https://sunpechphotography.com)
 
