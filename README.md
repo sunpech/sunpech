@@ -7,7 +7,7 @@ I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ru
 ## Education
 
 * BA in Computer Science from [Boston University](https://www.bu.edu/)
-* MS in Information Systems from [Depaul University](https://www.depaul.edu/).
+* MS in Information Systems from [Depaul University](https://www.depaul.edu/)
 
 ## Github Stats
 
