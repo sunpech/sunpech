@@ -4,11 +4,6 @@ I'm Steven. I enjoy coding, blogging, photography, and many other things. I have
 
 I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ruby on Rails, and Jekyll. I contibute to open source projects where I can. Many of my websites and projects are built with [Hugo](https://gohugo.io/), [Github](https://github.com) and [Netlify](https://www.netlify.com/).
 
-## Education
-
-* BA in Computer Science from [Boston University](https://www.bu.edu/)
-* MS in Information Systems from [Depaul University](https://www.depaul.edu/)
-
 ## Github Stats
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sunpech)](https://github.com/LordDashMe/github-contribution-stats/)
