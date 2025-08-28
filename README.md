@@ -8,6 +8,10 @@ I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ru
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sunpech)](https://github.com/LordDashMe/github-contribution-stats/)
 
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **sunpech/sunpech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
