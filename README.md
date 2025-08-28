@@ -6,7 +6,7 @@ I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ru
 
 ## Github Stats
 
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpech&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpech&show_icons=true&theme=blue-green)
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
