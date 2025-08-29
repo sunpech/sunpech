@@ -2,19 +2,19 @@
 
 I'm Steven. I enjoy coding, blogging, photography, and many other things. I have a blog at: [sunpech.com](https://sunpech.com) and my photography website at: [sunpechphotography.com](https://sunpechphotography.com).
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ruby on Rails, and Jekyll. I contibute to open source projects where I can. Many of my websites and projects are built with [Hugo](https://gohugo.io/), [Github](https://github.com) and [Netlify](https://www.netlify.com/).
 
 [![My Skills](https://skillicons.dev/icons?i=apple,bitbucket,bootstrap,cs,css,discord,dotnet,git,github,go,html,linux,md,mysql,netlify,perl,ps,php,postgres,rails,ruby,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
 
-## 📊 Github Stats
+# 📊 Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunpech&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunpech&theme=transparent)
 
-## 📰 Recent Blog Posts
+# 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [San Diego Comic Con 2025](https://sunpech.com/2025/08/san-diego-comic-con-2025/?utm_source=atom_feed)
 - [Infinity Saga Concert at Hollywood Bowl](https://sunpech.com/2024/09/infinity-saga-concert-at-hollywood-bowl/?utm_source=atom_feed)
