@@ -7,6 +7,9 @@ I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ru
 ## Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpech&show_icons=true&theme=transparent)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunpech&theme=transparent)
+
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [San Diego Comic Con 2025](https://sunpech.com/2025/08/san-diego-comic-con-2025/?utm_source=atom_feed)
