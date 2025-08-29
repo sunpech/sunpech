@@ -1,4 +1,4 @@
-# 👋 Hello world
+# 👋 About Me
 
 I'm Steven. I enjoy coding, blogging, photography, and many other things. I have a blog at: [sunpech.com](https://sunpech.com) and my photography website at: [sunpechphotography.com](https://sunpechphotography.com).
 
