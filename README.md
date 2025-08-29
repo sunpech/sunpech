@@ -6,7 +6,7 @@ I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ru
 
 ## Github Stats
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunpech&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunpech&theme=transparent)
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunpech&theme=transparent)
 
