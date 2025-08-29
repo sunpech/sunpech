@@ -4,6 +4,8 @@ I'm Steven. I enjoy coding, blogging, photography, and many other things. I have
 
 I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ruby on Rails, and Jekyll. I contibute to open source projects where I can. Many of my websites and projects are built with [Hugo](https://gohugo.io/), [Github](https://github.com) and [Netlify](https://www.netlify.com/).
 
+[![My Skills](https://skillicons.dev/icons?i=apple,bitbucket,bootstrap,cs,css,discord,dotnet,git,github,go,html,linux,md,mysql,netlify,perl,ps,php,postgres,rails,ruby,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
+
 ## 📊 Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunpech&theme=transparent)
