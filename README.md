@@ -1,16 +1,16 @@
-# Hello world 👋, 
+# 👋 Hello world
 
 I'm Steven. I enjoy coding, blogging, photography, and many other things. I have a blog at: [sunpech.com](https://sunpech.com) and my photography website at: [sunpechphotography.com](https://sunpechphotography.com).
 
 I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ruby on Rails, and Jekyll. I contibute to open source projects where I can. Many of my websites and projects are built with [Hugo](https://gohugo.io/), [Github](https://github.com) and [Netlify](https://www.netlify.com/).
 
-## Github Stats
+## 📊 Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunpech&theme=transparent)
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunpech&theme=transparent)
 
-## Recent Blog Posts
+## 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [San Diego Comic Con 2025](https://sunpech.com/2025/08/san-diego-comic-con-2025/?utm_source=atom_feed)
 - [Infinity Saga Concert at Hollywood Bowl](https://sunpech.com/2024/09/infinity-saga-concert-at-hollywood-bowl/?utm_source=atom_feed)
