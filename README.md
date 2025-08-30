@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm Steven. I enjoy coding, blogging, photography, and many other things. I have a blog at: [sunpech.com](https://sunpech.com) and my photography website at: [sunpechphotography.com](https://sunpechphotography.com).
+I'm Steven. I enjoy coding, blogging, photography, homelabbing, and playing with LLMs. I have a blog at: [sunpech.com](https://sunpech.com) and my photography website at: [sunpechphotography.com](https://sunpechphotography.com).
 
 # 🛠️ Skills
 
@@ -16,7 +16,7 @@ I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ru
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunpech&theme=transparent)
 
-# 📝 Recent Blog Posts
+# 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [San Diego Comic Con 2025](https://sunpech.com/2025/08/san-diego-comic-con-2025/?utm_source=atom_feed)
 - [Infinity Saga Concert at Hollywood Bowl](https://sunpech.com/2024/09/infinity-saga-concert-at-hollywood-bowl/?utm_source=atom_feed)
