@@ -1,6 +1,6 @@
-## 👋 About Me
+## 👋 Hello, I'm Steven!
 
-I'm Steven. I enjoy coding, blogging, photography, homelabbing, and playing with LLMs. I have a blog at: [sunpech.com](https://sunpech.com) and my photography website at: [sunpechphotography.com](https://sunpechphotography.com).
+I enjoy coding, blogging, photography, homelabbing, and playing with LLMs. I have a blog at: [sunpech.com](https://sunpech.com) and my photography website at: [sunpechphotography.com](https://sunpechphotography.com).
 
 ## 🛠️ Skills
 
