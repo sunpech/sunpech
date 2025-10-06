@@ -4,7 +4,7 @@ I enjoy coding, blogging, photography, homelabbing, and playing with LLMs. I hav
 
 ## 🛠️ Skills
 
-I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ruby on Rails, and Jekyll. I contibute to open source projects where I can. Many of my websites and projects are built with [Hugo](https://gohugo.io/), [Github](https://github.com) and [Netlify](https://www.netlify.com/).
+I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ruby on Rails, and Jekyll. I contibute to open source projects where I can. Many of my websites and projects are built with [Hugo](https://gohugo.io/), [Github](https://github.com) and [Cloudflare Pages](https://pages.cloudflare.com/).
 
 [![Development](https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,git,go,html,md,mysql,perl,postgres,php,rails,ruby)](https://skillicons.dev)
 
