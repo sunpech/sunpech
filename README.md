@@ -8,7 +8,7 @@ I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ru
 
 [![Development](https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,git,go,html,md,mysql,perl,postgres,php,rails,ruby)](https://skillicons.dev)
 
-[![Software](https://skillicons.dev/icons?i=apple,bitbucket,discord,github,linux,netlify,ps,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
+[![Software](https://skillicons.dev/icons?i=apple,bitbucket,cloudflare,discord,github,linux,netlify,ps,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
 
 ## 📊 Github Stats
 
