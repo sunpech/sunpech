@@ -18,11 +18,11 @@ I have projects in Perl, PHP, ASP, ASP.net, VB, C#, mySQL, PostgreSQL, MSSQL, Ru
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Moved from SmugMug again](https://sunpech.com/2025/09/moved-from-smugmug-again/)
-- [Home Lab Journey](https://sunpech.com/2025/09/home-lab-journey/)
-- [San Diego Comic Con 2025](https://sunpech.com/2025/08/san-diego-comic-con-2025/)
-- [Infinity Saga Concert at Hollywood Bowl](https://sunpech.com/2024/09/infinity-saga-concert-at-hollywood-bowl/)
-- [San Diego Comic Con 2024](https://sunpech.com/2024/08/san-diego-comic-con-2024/)
+- [San Diego Comic Con 2026](https://sunpech.com/posts/2026/08/san-diego-comic-con-2026/)
+- [Moved from SmugMug again](https://sunpech.com/posts/2025/09/moved-from-smugmug-again/)
+- [Home Lab Journey](https://sunpech.com/posts/2025/09/home-lab-journey/)
+- [San Diego Comic Con 2025](https://sunpech.com/posts/2025/08/san-diego-comic-con-2025/)
+- [Infinity Saga Concert at Hollywood Bowl](https://sunpech.com/posts/2024/09/infinity-saga-concert-at-hollywood-bowl/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
